@@ -1,0 +1,11 @@
+# VS code
+/.vscode
+
+# Virtual enviroment
+/env
+
+# Python
+__pycache__/
+
+# IPython
+.ipynb_checkpoints/
