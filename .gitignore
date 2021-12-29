@@ -1,11 +1,9 @@
-# VS code
-/.vscode
-
-# Virtual enviroment
+# PyCharm
+/.idea
+# виртуалка
 /env
-
-# Python
+# Bytecode
 __pycache__/
-
+*.py[cod]
 # IPython
 .ipynb_checkpoints/
